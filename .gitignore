@@ -1,5 +1,6 @@
 HELP.md
 .gradle
+.bsp
 bin/
 target/
 build/
